@@ -12,7 +12,7 @@
 
 
 
-- Send Money & Reciev Money
+- Send Money & Receive Money
  
 - Backend Validation with Zod
 
