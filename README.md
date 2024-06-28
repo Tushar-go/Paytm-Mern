@@ -22,13 +22,14 @@
 
 - Check Bank Balance
 
-- Authentication:
+- Fully Responsive
+
+- Authentication:-
 
  - User Signup
 
  - User Login
 
- - Fully Responsive
 
 
 
